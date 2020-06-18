@@ -18,30 +18,30 @@
 
 ### 界面一览
 
-![注册页面](.\img\注册界面.png)
+![注册页面](https://github.com/HuangBinTao/News/tree/master\img\注册界面.png)
 
-![](.\img\用户订阅报刊.png)
+![](.https://github.com/HuangBinTao/News/tree/master/img\用户订阅报刊.png)
 
-![](.\img\用户登录界面.png)
+![](https://github.com/HuangBinTao/News/tree/master/img\用户登录界面.png)
 
-![](.\img\用户操作界面.png)
+![](https://github.com/HuangBinTao/News/tree/master\img\用户操作界面.png)
 
-![](.\img\统计功能.png)
+![](https://github.com/HuangBinTao/News/tree/master\img\统计功能.png)
 
-![](.\img\双登录按钮页面.png)
+![](https://github.com/HuangBinTao/News/tree/master\img\双登录按钮页面.png)
 
-![](.\img\录入报社.png)
+![](https://github.com/HuangBinTao/News/tree/master\img\录入报社.png)
 
-![](.\img\后台登录页面.png)
+![](https://github.com/HuangBinTao/News/tree/master\img\后台登录页面.png)
 
-![](.\img\管理员录入报刊.png)
+![](https://github.com/HuangBinTao/News/tree/master\img\管理员录入报刊.png)
 
-![](.\img\管理员操作多按钮界面.png)
+![](https://github.com/HuangBinTao/News/tree/master\img\管理员操作多按钮界面.png)
 
-![](.\img\查询功能3.png)
+![](https://github.com/HuangBinTao/News/tree/master\img\查询功能3.png)
 
-![](.\img\查询功能2.png)
+![](https://github.com/HuangBinTao/News/tree/master\img\查询功能2.png)
 
-![](.\img\查询功能1.png)
+![](https://github.com/HuangBinTao/News/tree/master\img\查询功能1.png)
 
-![](.\img\查询功能.png)
+![](https://github.com/HuangBinTao/News/tree/master\img\查询功能.png)
