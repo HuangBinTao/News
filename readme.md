@@ -18,7 +18,7 @@
 
 ### 界面一览
 
-![注册页面](https://github.com/HuangBinTao/News/tree/master\img\注册界面.png)
+![注册页面](https://github.com/HuangBinTao/News/tree/master/img/注册界面.png)
 
 ![](.https://github.com/HuangBinTao/News/tree/master/img\用户订阅报刊.png)
 
